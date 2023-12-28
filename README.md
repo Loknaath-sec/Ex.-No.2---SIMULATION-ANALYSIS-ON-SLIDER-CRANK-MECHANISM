@@ -36,11 +36,15 @@
 ![image](https://github.com/Loknaath-sec/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742558/2588f067-a840-420c-b357-294a6f7d3c74)
 
 
-## Output
+## Output:
+<img width="573" alt="1" src="https://github.com/Loknaath-sec/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742558/fb5963df-0a7c-4e31-8773-cbb02da9098d">
+<img width="556" alt="2" src="https://github.com/Loknaath-sec/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742558/d3e91c59-cf89-43e9-825f-b64c0f540172">
+<img width="573" alt="3" src="https://github.com/Loknaath-sec/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742558/67889f44-dc3b-4d54-ba53-7e07908b24a7">
 
 
-### Name:
-### Register Number: 
+
+### Name: P. LOKNAATH
+### Register Number: 212223240080
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
